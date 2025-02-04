@@ -12,5 +12,5 @@ Unity inspired fast travel script for FiveM
 - Large Config
 
 # Links
-Showcase: https://youtu.be/8N8IsXqoWNs
-My roleplay server: https://discord.gg/ykzFK7Qezt
+- Showcase: https://youtu.be/8N8IsXqoWNs
+- My roleplay server: https://discord.gg/ykzFK7Qezt
